@@ -1,4 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
+*Estudiante1: Valentina G
+*Estudiante2: Cristian F
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
